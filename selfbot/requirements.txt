@@ -1,0 +1,7 @@
+discord
+requests
+datetime
+asyncio
+aiohttp
+colorama
+selenium
