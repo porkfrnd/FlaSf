@@ -1,6 +1,11 @@
 # FlaSf
 Multitool For Discord
 
+
+# This Tool is Only For Windows Users!
+Even though Some tools may be useful, This is made for Windows systems
+For educational Purposes Only! I am not to be blamed if ur account gets termed
+
 <!DOCTYPE html>
 <html>
 <body>
