@@ -16,6 +16,8 @@ Multitool For Discord
   <h2>Installation</h2>
   <ul>
     <li><code>git clone https://github.com/HEkcingEz/FlaSf.git</code></li>
+    <li><code>cd FlaSf</code></li>
+    <li><code>python3 main.py</code></li>
   </ul>
   </body>
   </html>
