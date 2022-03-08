@@ -18,6 +18,11 @@ Multitool For Discord
     <li><code>git clone https://github.com/HEkcingEz/FlaSf.git</code></li>
     <li><code>cd FlaSf</code></li>
     <li><code>python3 main.py</code></li>
+  </ul><br><br>
+  <h3>How to Use</h3>
+  <ul>
+    <li>Run main.py</li>
+    <li>Put an option which you would like to use</li>
   </ul>
   </body>
   </html>
